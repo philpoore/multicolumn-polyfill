@@ -1,0 +1,16 @@
+{
+  "name": "multicolumn-polyfill",
+  "version": "2.0.0",
+  "description": "Imitates the CSS3 multicolumn effect for list items for IE",
+  "main": "index.js",
+  "repository": "https://github.com/philpoore/multicolumn-polyfill",
+  "author": "phil <phil.poore@easyfundraising.org.uk>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.6.0",
+    "webpack-cli": "^2.0.15"
+  },
+  "peerDependencies": {
+    "jquery": "^3.3.1"
+  }
+}
